@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LouisBerrios
 - 👀 I’m interested in microbial ecology. 
 - 🌱 I’m currently learning about how bacteria, fungi, and plants interact.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on field and lab experiments that involve bacteria, mycorrhizal fungi, and plants
 - 📫 Reach me at BerriosL@stanford.edu
 
 <!---
