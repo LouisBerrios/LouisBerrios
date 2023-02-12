@@ -29,6 +29,12 @@ Terrestrial plants and microbes have been coevolving for `over 100 million years
   
 ---
   
+<h3 align="left">Using genomics to understand plant-microbe interactions!</h3>
+
+My past work has used [genomics](https://link.springer.com/article/10.1007/s11104-020-04472-w) and [functional genetics](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0249227) approaches to demonstrate the genotypic specificity of plant-microbe inteactions. Likewise, I have used [comparative genomics](https://link.springer.com/article/10.1007/s00203-022-02953-3) to (1) demonstrate the genomic overlap(s) and dissimilarities between plant and human-associated bacteria and (2) [highlight genomic loci](https://link.springer.com/article/10.1007/s00203-021-02702-y) that may drive bacteria-plant relationships. My future work will continue to use -omics approaches to understand how plants and microbes inteact.
+  
+
+  
 <h3 align="left">Get involved and collaborate</h3>
 
 To read more about my work, check out [my Google Scholar page](https://scholar.google.com/citations?user=UKVTgq8AAAAJ&hl=en&authuser=1) or my [about me on my current lab’s homepage](https://mykophile.stanford.edu/people/dr-louis-berrios). If you’re interested in joining the team, send me an email including your career stage, scientific interests, and career goals – this way I have a better understanding of how we can collaborate and how we can advance our collective understanding of plant–microbe interactions. 
