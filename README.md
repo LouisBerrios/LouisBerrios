@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **bacteria-fungi-plant interactions, next-generation sequencing, and/or comparative genomics.**
 
-- 📫 How to reach me **berriosl@stanford.edu, louisb0812@gmail.com**
+- 📫 How to reach me **berriosl@stanford.edu or louisb0812@gmail.com**
 
 ---
   
