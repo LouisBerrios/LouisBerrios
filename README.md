@@ -43,6 +43,12 @@ My past research has used [genomics](https://link.springer.com/article/10.1007/s
 
 To read more about my work, check out [my Google Scholar page](https://scholar.google.com/citations?user=UKVTgq8AAAAJ&hl=en&authuser=1) or my [about me on my current lab’s homepage](https://mykophile.stanford.edu/people/dr-louis-berrios). If you’re interested in joining the team, send me an email including your career stage, scientific interests, and career goals – this way I have a better understanding of how we can collaborate and how we can advance our collective understanding of plant–microbe interactions. 
 
+---
+
+<img align="right" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g003.png?1650028453">
+
+---
+
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://www.researchgate.net/profile/Louis-Berrios" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/researchgate-logo-freelogovectors.net_.png" height="30" width="40" /></a>
@@ -52,6 +58,8 @@ To read more about my work, check out [my Google Scholar page](https://scholar.g
 
 ---
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LouisBerrios&theme=dracula)](https://github.com/LouisBerrios/github-readme-stats)
+
+---
 [![Louis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LouisBerrios&theme=github-compact)](https://github.com/LouisBerrios/github-readme-activity-graph)
 
 
