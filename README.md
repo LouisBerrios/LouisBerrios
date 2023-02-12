@@ -8,7 +8,9 @@
 
 ---
 
-<h3 align="left">I'm a microbial ecologist with training in bacteriology, molecular genetics, mycology, and plant-microbe interactions. 
+<h3 align="left">Scienctific Background: 
+  
+- 👨‍🔬 I'm a microbial ecologist with training in bacteriology, molecular genetics, mycology, and plant-microbe interactions. I received my PhD from the `University of South Carolina` in August 2021 and began my postdoctoral fellowship at `Stanford University` in October of 2021.
 
 - 🔭 I’m currently working on **small- and large-scale approaches to assess bacteria-fungi-plant interactions.**
   
