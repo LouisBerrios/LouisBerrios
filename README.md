@@ -10,9 +10,11 @@
 
 <h3 align="left">I'm a microbial ecologist with training in bacteriology, molecular genetics, mycology, and plant-microbe interactions. 
 
-- 🔭 I’m currently working on **small- and large-scale approaches to assess bacteria-fungi-plants interactions.**
+- 🔭 I’m currently working on **small- and large-scale approaches to assess bacteria-fungi-plant interactions.**
   
 - 📚 Read more about my work [here](https://scholar.google.com/citations?user=UKVTgq8AAAAJ&hl=en&oi=ao).
+  
+- 👨🏼‍🏫 Find out about [courses I've taught and developed here](https://www.louisberrios.org/teaching).  
   
 - 💬 Let's chat about **`bacteria-fungi-plant interactions`**, **`next-generation sequencing`**, and/or **`comparative genomics`**.
 
