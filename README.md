@@ -9,7 +9,7 @@
 
 ---
 
-I'm a microbial ecologist with training in bacteriology, molecular genetics, mycology, and plant-microbe interactions. 
+<h3 align="left">I'm a microbial ecologist with training in bacteriology, molecular genetics, mycology, and plant-microbe interactions. 
 
 - 🔭 I’m currently working on **small- and large-scale approaches to assess bacteria-fungi-plants interactions.**
 
