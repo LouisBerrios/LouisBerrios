@@ -4,6 +4,7 @@
 <h3 align="center">A postdoctoral fellow at Stanford University studying how bacteria, mycorrhizal fungi, and plants interact</h3>
 <img align="right" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
 
+I'm a microbial ecologist with training in bacteriology, molecular genetics, mycology, and plant-microbe interactions. 
 
 - 🔭 I’m currently working on **small- and large-scale approaches to assess bacteria-fungi-plants interactions.**
 
