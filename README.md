@@ -1,6 +1,6 @@
+<h1 align="left">Louis Berrios, PhD</h3>
 
 ![MasterHead](https://i.pinimg.com/originals/d7/e5/fb/d7e5fb6e568b41cc1b45244544a4f673.jpg)
-<h1 align="left">Louis Berrios, PhD</h3>
 
 [Postdoctoral NSF fellow](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2109481&HistoricalAwards=false) in the [Peay Lab](https://mykophile.stanford.edu/people/dr-louis-berrios) at **`Stanford University`** studying how bacteria, mycorrhizal fungi, and plants interact
 
