@@ -14,7 +14,7 @@
   
 - 📚 Read more about my work [here](https://scholar.google.com/citations?user=UKVTgq8AAAAJ&hl=en&oi=ao).
   
-- 👨🏼‍🏫 Find out about [courses I've taught and developed here](https://www.louisberrios.org/teaching).  
+- 👨🏼‍🏫 Find out about [courses I've taught and developed here](https://www.louisberrios.org/teaching) and check out a lab manual I co-authored over [here](https://store2.van-griner.com/product/redemption-code-for-bacteriology-biology-550l/).  
   
 - 💬 Let's chat about **`bacteria-fungi-plant interactions`**, **`next-generation sequencing`**, and/or **`comparative genomics`**.
 
@@ -25,13 +25,13 @@
 
 ---
   
-<h3 align="left">Why study plant-microbe interactions?</h3> 
+<h3 align="left">Why Study Plant-Microbe Interactions?</h3> 
 
 Terrestrial plants and microbes have been coevolving for `over 100 million years`, and their interactions contribute to `biogeochemical cycles` and `agricultural fecundity`. Two of the most `dominant and impactful` microbial groups are `bacteria and mycorrhizal fungi`, which often `benefit their plant host(s)`. Without these beneficial microbes, plants would be severely limited in their ability to survive and reproduce in nature. However, detailed `mechanisms` explaining many beneficial plant-microbe interactions remain unclear. Therefore, my research program [combines field and lab experiments](https://www.louisberrios.org/research) to uncover the `mechanisms` that drive `positive relationships` among `plants`, `bacteria`, and `mycorrhizal fungi`.
   
 ---
   
-<h3 align="left">Using genomics to understand plant-microbe interactions!</h3>
+<h3 align="left">Using Genomics to Understand Plant-Microbe Interactions!</h3>
   
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5fe89251e999017876511c37/1609111193667-7KHDT3O5RMASZHFFSWS4/CBR1-HB4b-COMP-MAP%2BAPO7-RV.png">   
 
@@ -39,11 +39,11 @@ My past research has used [genomics](https://link.springer.com/article/10.1007/s
   
 
   
-<h3 align="left">Get involved and collaborate</h3>
+<h3 align="left">Want to Get Involved and Collaborate?</h3>
 
 To read more about my work, check out [my Google Scholar page](https://scholar.google.com/citations?user=UKVTgq8AAAAJ&hl=en&authuser=1) or my [about me on my current lab’s homepage](https://mykophile.stanford.edu/people/dr-louis-berrios). If you’re interested in joining the team, send me an email including your career stage, scientific interests, and career goals – this way I have a better understanding of how we can collaborate and how we can advance our collective understanding of plant–microbe interactions. 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://www.researchgate.net/profile/Louis-Berrios" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/researchgate-logo-freelogovectors.net_.png" height="30" width="40" /></a>
 <a href="https://mykophile.stanford.edu/people/dr-louis-berrios" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Stanford_Cardinal_logo.svg/800px-Stanford_Cardinal_logo.svg.png" height="30" width="40" /></a>
