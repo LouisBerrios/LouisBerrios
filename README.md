@@ -15,7 +15,8 @@
 
 - 📫 Email me at **berriosl@stanford.edu or louisb0812@gmail.com**
   
-   <img align="right" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
+  
+<img align="right" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
 
 ---
   
