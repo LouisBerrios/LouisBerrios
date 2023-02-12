@@ -1,7 +1,10 @@
 
 ![MasterHead](https://wallpapercave.com/wp/OKXmPl4.jpg)
 <h1 align="center">Louis Berrios, PhD</h1>
-<h3 align="center">A postdoctoral fellow at Stanford University studying how bacteria, mycorrhizal fungi, and plants interact</h3>
+<h3 align="center">Postdoctoral fellow at Stanford University studying how bacteria, mycorrhizal fungi, and plants interact</h3>
+
+**`Microbial Ecology/Tripartite Mutualisms/Bacterial Genetics & Genomics`**
+
 <img align="right" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
 
 I'm a microbial ecologist with training in bacteriology, molecular genetics, mycology, and plant-microbe interactions. 
