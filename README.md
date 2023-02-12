@@ -5,7 +5,7 @@
 
 **`Microbial_Ecology/Tripartite-Mutualisms/Bacterial-Genetics_&_Genomics`**
 
-<img align="right" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
+<img align="right" alt="Coding" width="300" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
 
 ---
 
