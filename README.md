@@ -30,6 +30,8 @@ Terrestrial plants and microbes have been coevolving for `over 100 million years
 ---
   
 <h3 align="left">Using genomics to understand plant-microbe interactions!</h3>
+  
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5fe89251e999017876511c37/1609111193667-7KHDT3O5RMASZHFFSWS4/CBR1-HB4b-COMP-MAP%2BAPO7-RV.png">   
 
 My past work has used [genomics](https://link.springer.com/article/10.1007/s11104-020-04472-w) and [functional genetics](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0249227) approaches to demonstrate the genotypic specificity of plant-microbe inteactions. Likewise, I have used [comparative genomics](https://link.springer.com/article/10.1007/s00203-022-02953-3) to (1) demonstrate the genomic overlap(s) and dissimilarities between plant and human-associated bacteria and (2) [highlight genomic loci](https://link.springer.com/article/10.1007/s00203-021-02702-y) that may drive bacteria-plant relationships. My future work will continue to use -omics approaches to understand how plants and microbes inteact.
   
