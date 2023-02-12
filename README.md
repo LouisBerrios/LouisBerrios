@@ -3,7 +3,7 @@
 <h1 align="left">Louis Berrios, PhD</h3>
 <h3 align="left">Postdoctoral fellow at Stanford University studying how bacteria, mycorrhizal fungi, and plants interact</h3>
 
-**`Microbial Ecology/Tripartite Mutualisms/Bacterial Genetics & Genomics`**
+**`Microbial_Ecology/Tripartite-Mutualisms/Bacterial-Genetics_&_Genomics`**
 
 <img align="right" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
 
