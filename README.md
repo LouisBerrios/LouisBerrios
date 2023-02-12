@@ -1,9 +1,10 @@
 
-![MasterHead](https://i.pinimg.com/originals/89/e2/b5/89e2b595f4576319f87132f1960a3127.jpg)
+![MasterHead](https://i.pinimg.com/originals/d7/e5/fb/d7e5fb6e568b41cc1b45244544a4f673.jpg)
 <h1 align="center">Louis Berrios, PhD</h1>
 <h3 align="left">Postdoctoral fellow at Stanford University studying how bacteria, mycorrhizal fungi, and plants interact</h3>
 
 **`Microbial Ecology/Tripartite Mutualisms/Bacterial Genetics & Genomics`**
+
 <img align="right" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
 
 ---
@@ -16,7 +17,7 @@ I'm a microbial ecologist with training in bacteriology, molecular genetics, myc
 
 - 📫 How to reach me **berriosl@stanford.edu, louisb0812@gmail.com**
 
-#
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
