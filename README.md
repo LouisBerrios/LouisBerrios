@@ -7,7 +7,7 @@
 **`Microbial_Ecology/Tripartite-Mutualisms/Bacterial-Genetics_&_Genomics`**
 
 ---
-<img align="right" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
+<img align="right" alt="Coding" width="500" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
 <h3 align="left">Scienctific Background: 
   
 - 👨‍🔬 I'm a microbial ecologist with training in bacteriology, molecular genetics, mycology, and plant-microbe interactions. I received my PhD from the `University of South Carolina` in August 2021 and began my postdoctoral fellowship at `Stanford University` in October of 2021.
@@ -25,7 +25,7 @@
   
 ---
   
-<img align="right" alt="Coding" width="300" src="Common-plant-microbiome-members-of-select-plant-species-Various-plant-species-and.png">  
+<img align="right" alt="Coding" width="400" src="Common-plant-microbiome-members-of-select-plant-species-Various-plant-species-and.png">  
 <h3 align="left">Why Study Plant-Microbe Interactions?</h3> 
 
 Terrestrial plants and microbes have been coevolving for `over 100 million years`, and their interactions contribute to `biogeochemical cycles` and `agricultural fecundity`. Two of the most `dominant and impactful` microbial groups are `bacteria and mycorrhizal fungi`, which often `benefit their plant host(s)`. Without these beneficial microbes, plants would be severely limited in their ability to survive and reproduce in nature. However, detailed `mechanisms` explaining many beneficial plant-microbe interactions remain unclear. Therefore, my research program [combines field and lab experiments](https://www.louisberrios.org/research) to uncover the `mechanisms` that drive `positive relationships` among `plants`, `bacteria`, and `mycorrhizal fungi`.
