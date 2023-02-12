@@ -23,11 +23,14 @@
   
 <img align="right" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
 
+  
 ---
+  
   
 <h3 align="left">Why Study Plant-Microbe Interactions?</h3> 
 
 Terrestrial plants and microbes have been coevolving for `over 100 million years`, and their interactions contribute to `biogeochemical cycles` and `agricultural fecundity`. Two of the most `dominant and impactful` microbial groups are `bacteria and mycorrhizal fungi`, which often `benefit their plant host(s)`. Without these beneficial microbes, plants would be severely limited in their ability to survive and reproduce in nature. However, detailed `mechanisms` explaining many beneficial plant-microbe interactions remain unclear. Therefore, my research program [combines field and lab experiments](https://www.louisberrios.org/research) to uncover the `mechanisms` that drive `positive relationships` among `plants`, `bacteria`, and `mycorrhizal fungi`.
+  
   
 ---
   
