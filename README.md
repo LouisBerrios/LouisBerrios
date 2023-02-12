@@ -25,7 +25,7 @@
   
 ---
   
-  
+<img align="right" alt="Coding" width="300" src="Common-plant-microbiome-members-of-select-plant-species-Various-plant-species-and.png">  
 <h3 align="left">Why Study Plant-Microbe Interactions?</h3> 
 
 Terrestrial plants and microbes have been coevolving for `over 100 million years`, and their interactions contribute to `biogeochemical cycles` and `agricultural fecundity`. Two of the most `dominant and impactful` microbial groups are `bacteria and mycorrhizal fungi`, which often `benefit their plant host(s)`. Without these beneficial microbes, plants would be severely limited in their ability to survive and reproduce in nature. However, detailed `mechanisms` explaining many beneficial plant-microbe interactions remain unclear. Therefore, my research program [combines field and lab experiments](https://www.louisberrios.org/research) to uncover the `mechanisms` that drive `positive relationships` among `plants`, `bacteria`, and `mycorrhizal fungi`.
@@ -33,21 +33,19 @@ Terrestrial plants and microbes have been coevolving for `over 100 million years
   
 ---
   
-<h3 align="left">Using Genomics to Understand Plant-Microbe Interactions!</h3>
   
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5fe89251e999017876511c37/1609111193667-7KHDT3O5RMASZHFFSWS4/CBR1-HB4b-COMP-MAP%2BAPO7-RV.png">   
+<img align="right" alt="Coding" width="200" src="https://images.squarespace-cdn.com/content/v1/5fe89251e999017876511c37/1609111193667-7KHDT3O5RMASZHFFSWS4/CBR1-HB4b-COMP-MAP%2BAPO7-RV.png">   
+<h3 align="left">Using Genomics to Understand Plant-Microbe Interactions!</h3>
 
 My past research has used [genomics](https://link.springer.com/article/10.1007/s11104-020-04472-w) and [functional genetics](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0249227) approaches to demonstrate the genotypic specificity of plant-microbe inteactions. Likewise, I have used [comparative genomics](https://link.springer.com/article/10.1007/s00203-022-02953-3) to (1) demonstrate the genomic overlap(s) and dissimilarities between plant and human-associated bacteria and (2) [highlight genomic loci](https://link.springer.com/article/10.1007/s00203-021-02702-y) that may drive bacteria-plant relationships. My research will continue to use -omics approaches to understand how plants and microbes interact.
   
-
+<img align="left" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g003.png?1650028453">
+  
+---
   
 <h3 align="left">Want to Get Involved and Collaborate?</h3>
 
 To read more about my work, check out [my Google Scholar page](https://scholar.google.com/citations?user=UKVTgq8AAAAJ&hl=en&authuser=1) or my [about me on my current lab’s homepage](https://mykophile.stanford.edu/people/dr-louis-berrios). If you’re interested in joining the team, send me an email including your career stage, scientific interests, and career goals – this way I have a better understanding of how we can collaborate and how we can advance our collective understanding of plant–microbe interactions. 
-
----
-
-<img align="right" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g003.png?1650028453">
 
 ---
 
