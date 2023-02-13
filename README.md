@@ -1,6 +1,6 @@
 <head>
 <meta name="google-site-verification" content="Pp8-Z2vx8cIw5L6OqWy2qprgNLXwVdT-6TsXQya-EtQ" />
-  <head>
+  </head>
 <h1 align="left">Louis Berrios, PhD</h3>
 
 ![MasterHead](https://i.pinimg.com/originals/d7/e5/fb/d7e5fb6e568b41cc1b45244544a4f673.jpg)
