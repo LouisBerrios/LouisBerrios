@@ -11,7 +11,7 @@
 
 ---
 <img align="right" alt="Coding" width="500" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
-<h3 align="left">Scienctific Background: 
+<h3 align="left">Scientific Background: 
   
 - 👨‍🔬 I'm a microbial ecologist with training in bacteriology, molecular genetics, mycology, and plant-microbe interactions. I received my PhD from the `University of South Carolina` in August 2021 and began my postdoctoral fellowship at `Stanford University` in October of 2021.
 
