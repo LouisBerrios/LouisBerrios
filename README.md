@@ -41,7 +41,7 @@ Terrestrial plants and microbes have been coevolving for `over 100 million years
 
 My past research has used [genomics](https://link.springer.com/article/10.1007/s11104-020-04472-w) and [functional genetics](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0249227) approaches to demonstrate the genotypic specificity of plant-microbe inteactions. Likewise, I have used [comparative genomics](https://link.springer.com/article/10.1007/s00203-022-02953-3) to (1) demonstrate the genomic overlap(s) and dissimilarities between plant and human-associated bacteria and (2) [highlight genomic loci](https://link.springer.com/article/10.1007/s00203-021-02702-y) that may drive bacteria-plant relationships. My research will continue to use omics approaches to understand how plants and microbes interact.
   
-<img align="left" alt="Coding" width="400" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g003.png?1650028453">
+<img align="left" alt="Coding" width="300" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g003.png?1650028453">
   
 ---
   
@@ -50,7 +50,7 @@ My past research has used [genomics](https://link.springer.com/article/10.1007/s
 To read more about my work, check out [my Google Scholar page](https://scholar.google.com/citations?user=UKVTgq8AAAAJ&hl=en&authuser=1) or my [about me on my current lab’s homepage](https://mykophile.stanford.edu/people/dr-louis-berrios). If you’re interested in joining the team, send me an email including your career stage, scientific interests, and career goals – this way I have a better understanding of how we can collaborate and how we can advance our collective understanding of plant–microbe interactions. 
 
 ---
-<h3 align="left">Connect with Me:</h3>
+<h3 align="left">Connect with Me</h3>
 <p align="left">
 <a href="https://www.researchgate.net/profile/Louis-Berrios" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI4s9-SQlMe_2mnQwvNG2ph8CHAKRTomJ7Gg&usqp=CAU" height="30" width="40" /></a>
 <a href="https://mykophile.stanford.edu/people/dr-louis-berrios" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Stanford_Cardinal_logo.svg/800px-Stanford_Cardinal_logo.svg.png" height="30" width="40" /></a>
