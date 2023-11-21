@@ -66,5 +66,4 @@ To read more about my work, check out [my Google Scholar page](https://scholar.g
   
 [![Louis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LouisBerrios&theme=github-compact)](https://github.com/LouisBerrios/github-readme-activity-graph)
 
-
 </p>
