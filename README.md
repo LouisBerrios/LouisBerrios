@@ -50,7 +50,6 @@ My past research has used [genomics](https://link.springer.com/article/10.1007/s
 To read more about my work, check out [my Google Scholar page](https://scholar.google.com/citations?user=UKVTgq8AAAAJ&hl=en&authuser=1) or my [about me on my current lab’s homepage](https://mykophile.stanford.edu/people/dr-louis-berrios). If you’re interested in joining the team, send me an email including your career stage, scientific interests, and career goals – this way I have a better understanding of how we can collaborate and how we can advance our collective understanding of plant–microbe interactions. 
 
 ---
-
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://www.researchgate.net/profile/Louis-Berrios" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/researchgate-logo-freelogovectors.net_.png" height="30" width="40" /></a>
@@ -59,7 +58,8 @@ To read more about my work, check out [my Google Scholar page](https://scholar.g
 <a href="https://scholar.google.com/citations?user=UKVTgq8AAAAJ&hl=en&oi=ao" target="blank"><img align="center" src="https://www.nist.gov/sites/default/files/styles/960_x_960_limit/public/images/2019/07/30/google-scholar.jpg?itok=fFLzEt0n" height="30" width="40" /></a>
 
 ---
-  
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5fe89251e999017876511c37/489799a8-10e8-406d-9da0-2cca911b8a89/Berrios.et.al.2023_Graphical_Abstract_CurrentBiology+copy.jpg">
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LouisBerrios&theme=dracula)](https://github.com/LouisBerrios/github-readme-stats)
   
 ---
