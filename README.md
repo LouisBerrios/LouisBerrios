@@ -9,8 +9,6 @@
 
 **`Microbial_Ecology/Tripartite-Mutualisms/Bacterial-Genetics_&_Genomics`**
 ---
-<img align="left" alt="Coding" width="500" src="https://www.cell.com/cms/attachment/a8951e63-8b0a-4299-b3cc-df3292f69a87/fx1.jpg">
----
 <img align="right" alt="Coding" width="500" src="https://pub.mdpi-res.com/ijms/ijms-23-04402/article_deploy/html/images/ijms-23-04402-g002.png?1650028453">
 <h3 align="left">Scientific Background: 
   
