@@ -63,5 +63,6 @@ To read more about my work, check out [my Google Scholar page](https://scholar.g
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LouisBerrios&theme=dracula)](https://github.com/LouisBerrios/github-readme-stats)
   
 ---
+
 [![Louis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LouisBerrios&theme=github-compact)](https://github.com/LouisBerrios/github-readme-activity-graph)
 </p>
