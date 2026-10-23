@@ -5,7 +5,7 @@
 
 ![MasterHead](https://i.pinimg.com/originals/d7/e5/fb/d7e5fb6e568b41cc1b45244544a4f673.jpg)
 
-[Incoming Assistant Professor of Ecology @ Notre Dame, Fall 2027](https://www.berrios-lab.com) studying how bacteria, mycorrhizal fungi, and plants interact
+[Incoming Assistant Professor of Ecology @ Notre Dame, January 2027](https://www.berrios-lab.com) studying how bacteria, mycorrhizal fungi, and plants interact
 
 **`Microbial_Ecology/Tripartite-Mutualisms/Bacterial-Genetics_&_Genomics`**
 ---
